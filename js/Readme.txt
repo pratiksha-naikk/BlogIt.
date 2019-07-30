@@ -1,1 +1,1 @@
-I do not own this file. This was created by https://github.com/cferdinandi/smooth-scroll
+For smooth scroll,you can refer to https://github.com/cferdinandi/smooth-scroll
