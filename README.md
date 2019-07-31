@@ -1,2 +1,1 @@
 # BlogIt.
-Online Blogging System
