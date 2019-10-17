@@ -5,6 +5,7 @@ You can start the website with index.html
 
 REQUIREMENTS :
 XAMPP
+
 You can download it from this link : https://www.apachefriends.org/download.html
 
 FOR DATABASE :
