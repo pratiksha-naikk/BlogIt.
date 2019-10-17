@@ -21,4 +21,6 @@ The user table should contain 3 columns namely fullname,email and password.
 
 The blogs table should contain 3 columns : email, title and content.
 
+Save your file in C:\xampp\htdocs\
+
 Start the website by going to http://localhost/ and selecting your website.
