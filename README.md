@@ -1,8 +1,6 @@
 # BlogIt.
 This is a simple blogging website, created for a college project.
 
-You can start the website with index.html
-
 REQUIREMENTS :
 XAMPP
 
@@ -22,3 +20,5 @@ Create 2 tables :
 The user table should contain 3 columns namely fullname,email and password.
 
 The blogs table should contain 3 columns : email, title and content.
+
+Start the website by going to http://localhost/ and selecting your website.
