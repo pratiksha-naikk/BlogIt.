@@ -10,6 +10,8 @@ You can download it from this link : https://www.apachefriends.org/download.html
 
 FOR DATABASE :
 
+Open XAMPP Control Panel. Start Apache and MySQL.
+
 Go to http://localhost/phpmyadmin/
 
 Create a new database. Name it 'blogit'.
