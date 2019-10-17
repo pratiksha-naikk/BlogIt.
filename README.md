@@ -3,6 +3,10 @@ This is a simple blogging website, created for a college project.
 
 You can start the website with index.html
 
+REQUIREMENTS :
+XAMPP
+You can download it from this link : https://www.apachefriends.org/download.html
+
 FOR DATABASE :
 
 Go to http://localhost/phpmyadmin/
