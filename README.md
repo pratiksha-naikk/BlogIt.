@@ -25,4 +25,4 @@ HOW TO START :
 
 Save your project in C:\xampp\htdocs\
 
-Start the website by going to http://localhost/ and selecting your website.
+Start the website by going to http://localhost/ and select your website.
