@@ -6,7 +6,7 @@ XAMPP
 
 You can download it from this link : https://www.apachefriends.org/download.html
 
-**FOR DATABASE :**
+## For Database :
 
 Open XAMPP Control Panel. Start Apache and MySQL.
 
