@@ -19,8 +19,7 @@ You can download it from this link : https://www.apachefriends.org/download.html
   1. blogs
 
 * The user table should contain 3 columns namely fullname,email and password.
-
-The blogs table should contain 3 columns : email, title and content.
+* The blogs table should contain 3 columns : email, title and content.
 
 HOW TO START :
 
