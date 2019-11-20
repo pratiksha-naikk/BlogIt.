@@ -21,7 +21,7 @@ You can download it from this link : https://www.apachefriends.org/download.html
 * The user table should contain 3 columns namely fullname,email and password.
 * The blogs table should contain 3 columns : email, title and content.
 
-HOW TO START :
+#### HOW TO START :
 
 Save your project in C:\xampp\htdocs\
 
