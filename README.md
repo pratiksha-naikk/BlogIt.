@@ -41,7 +41,7 @@ Start the website by going to http://localhost/ and select your website.
   
   
 
-##Demo Website can be found here: 
+## Demo Website can be found here: 
 
 [Simple Blogging] http://blogit.rf.gd/
 
